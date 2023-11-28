@@ -1,0 +1,24 @@
+.container {
+  font-size: 14px;
+}
+
+.container .header {
+  font-size: 18px;
+}
+
+.container .shop-list {
+  list-style: none;
+  margin-left: -15px;
+}
+
+.container .shop-list li.item {
+  color: green; /* 保留先前的綠色規則 */
+}
+
+.container .shop-list:first-child li.item {
+  color: blue; /* 第一個列表的藍色文本顏色 */
+}
+
+.container .shop-list li.item:nth-child(even) {
+  background-color: #f2f2f2; /* 每個偶數行的背景顏色 */
+}
