@@ -1,0 +1,23 @@
+{
+  "name": "react-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisLinOvO/react-question.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisLinOvO/react-question/issues"
+  },
+  "homepage": "https://github.com/ChrisLinOvO/react-question#readme",
+  "dependencies": {
+    "typescript": "^5.3.2"
+  }
+}
