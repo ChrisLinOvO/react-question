@@ -3,6 +3,8 @@
 ---
 
 ## 總共六題題目
+[react-question.pdf](https://github.com/ChrisLinOvO/react-question/files/13485566/react-question.pdf)
+
 
 答案分成： 1,2,3,4,5,6 各別資料夾，可分別查看結果
 
