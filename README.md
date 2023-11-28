@@ -10,16 +10,16 @@
 
 ### 第一題
 
-！[image](./image/demo1.jpg)
+![image](./image/demo1.jpg)
 
 ### 第二題
 
-！[image](./image/demo2.jpg)
+![image](./image/demo2.jpg)
 
 ### 第三題
 
-！[image](./image/demo3.jpg)
+![image](./image/demo3.jpg)
 
 ### 第四題
 
-！[image](./image/demo4.jpg)
+![image](./image/demo4.jpg)
