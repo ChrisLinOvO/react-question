@@ -47,11 +47,8 @@ function sortUserName(users) {
   });
 
   console.log("sortedUsers1", sortedUsers);
-  
-  const resultHtml = sortedUsers
-    .map((user) => `${user.firstName} ${user.lastName} ${user.customerID}`)
-    .join("<br>");
-  document.getElementById("sortedUsersByName").innerHTML = resultHtml;
+
+  document.getElementById("sortedUsersByName").innerHTML = JSON.stringify(sortedUsers);
 }
 
 sortUserName(usersA);

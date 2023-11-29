@@ -57,10 +57,7 @@ function sortByType(users) {
 
   console.log("sortedUsers2", sortedUsers);
 
-  const resultHtml = sortedUsers
-    .map((user) => `${user.firstName} ${user.lastName} ${user.profession}`)
-    .join("<br>");
-  document.getElementById("sortedUsersByProfession").innerHTML = resultHtml;
+  document.getElementById("sortedUsersByProfession").innerHTML = JSON.stringify(sortedUsers);
 }
 
 sortByType(usersB);
