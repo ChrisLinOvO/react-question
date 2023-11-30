@@ -1,7 +1,5 @@
 # react-question
 
----
-
 ## 總共六題題目
 [react-question.pdf](https://github.com/ChrisLinOvO/react-question/files/13485566/react-question.pdf)
 
